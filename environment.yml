@@ -1,0 +1,12 @@
+name: crypto_analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pycoingecko
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - pytrends
+  - scipy
